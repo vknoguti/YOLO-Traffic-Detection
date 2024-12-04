@@ -45,6 +45,20 @@ The system generates:
 - Average vehicle speed data
 - Traffic flow statistics
 
+### Graphs Generated:
+
+**Average Speed North-Way**
+![b89dcf5c-6a39-4c63-ae94-2fc338e0e9f5](https://github.com/user-attachments/assets/4a73aa2f-d5b8-4a14-ba3b-62e08605c274)
+
+**Vehicle Count North-Way:**
+![d9fd34fa-1050-4e3e-8277-dfcd70412496](https://github.com/user-attachments/assets/0cc2fde5-58ed-42b3-8451-46c8711c35f7)
+
+**Average Speed South-Way**
+![3b51248b-c88f-4d04-b9c7-3ee2b7ad3356](https://github.com/user-attachments/assets/a9766be9-f983-4a1d-902c-2fca0477d641)
+
+**Vehicle Count South-Way:**
+![48abc099-13d1-4c35-94f5-a0d6ef70a7e2](https://github.com/user-attachments/assets/f3a7f522-294b-469e-b89d-a965c790841d)
+
 ## 🛠️ Technologies Used
 
 - **YOLOv11** for object detection
