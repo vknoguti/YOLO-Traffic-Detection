@@ -1,0 +1,14 @@
+numpy==1.26.3
+pandas==2.2.3
+scipy==1.14.1
+matplotlib==3.9.2
+seaborn==0.13.2
+torch==2.4.1+cu124
+torchaudio==2.4.1+cu124
+torchvision==0.19.1+cu124
+ultralytics==8.3.13
+opencv-python==4.10.0.84
+requests==2.32.3
+PyYAML==6.0.2
+typing_extensions==4.6.3
+sympy==1.12
