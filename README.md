@@ -45,6 +45,9 @@ The system generates:
 - Average vehicle speed data
 - Traffic flow statistics
 
+### Screen Working Project
+![Screenshot_1](https://github.com/user-attachments/assets/600a697d-6b22-45fa-b9f7-9f0092694b25)
+
 ### Graphs Generated:
 
 **Average Speed North-Way**
