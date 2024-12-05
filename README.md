@@ -40,6 +40,11 @@ This project utilizes the YOLO object detection model to detect vehicles, calcul
 
 1. Navigate through and execute the cells according to your objective. There are markdown sections indicating which cells to execute based on the desired outcome (e.g., re-run from a specific configuration).
 
+2. Video Showing how to Install and Run the project with Yolo
+
+[![Thumbnail do Vídeo](https://img.youtube.com/vi/mIGDj77rhu0/0.jpg)](https://youtu.be/mIGDj77rhu0?si=7mvIkiUeMe5oAkbo)
+
+
 ## 📊 Results
 
 The system generates:
