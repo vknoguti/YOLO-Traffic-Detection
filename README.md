@@ -19,8 +19,8 @@ This project utilizes the YOLO object detection model to detect vehicles, calcul
 - YOLOv11
 
 ## References
-    * [RoboFlow Speed Estimation Vehicle](https://www.youtube.com/watch?v=uWP6UjDeZvY&t=1s)
-    * [RoboFlow Training-YOLOv11](https://www.youtube.com/watch?v=etjkjZoG2F0&t=1920s)
+* [RoboFlow Speed Estimation Vehicle](https://www.youtube.com/watch?v=uWP6UjDeZvY&t=1s)
+* [RoboFlow Training-YOLOv11](https://www.youtube.com/watch?v=etjkjZoG2F0&t=1920s)
 
 ## 🔧 Installation
 
