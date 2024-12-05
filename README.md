@@ -18,6 +18,10 @@ This project utilizes the YOLO object detection model to detect vehicles, calcul
 - Numpy
 - YOLOv11
 
+## References
+    * [RoboFlow Speed Estimation Vehicle](https://www.youtube.com/watch?v=uWP6UjDeZvY&t=1s)
+    * [RoboFlow Training-YOLOv11](https://www.youtube.com/watch?v=etjkjZoG2F0&t=1920s)
+
 ## 🔧 Installation
 
 1. Clone the repository:
@@ -80,5 +84,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 * Ultralytics for the YOLOv11 implementation
 * The open-source community
-* [RoboFlow Speed Estimation Vehicle](https://www.youtube.com/watch?v=uWP6UjDeZvY&t=1s)
-* [RoboFlow Training-YOLOv11](https://www.youtube.com/watch?v=etjkjZoG2F0&t=1920s)
+
