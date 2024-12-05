@@ -1,4 +1,4 @@
-# YOLO-Traffic-Detection
+# YOLOv11-Traffic-Detection
 
 This project utilizes the YOLO object detection model to detect vehicles, calculate their speeds, and count vehicles on highways.
 
