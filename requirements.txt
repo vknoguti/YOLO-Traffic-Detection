@@ -11,3 +11,4 @@ Pillow==10.2.0
 PyYAML==6.0.2
 tqdm==4.66.5
 kiwisolver==1.4.7
+supervision==0.25.0
